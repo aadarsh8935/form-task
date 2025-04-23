@@ -1,0 +1,13 @@
+
+.heading{
+    background-color: chartreuse;
+    color: crimson;
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-style: dashed;
+    word-spacing: 40px;
+    letter-spacing: 20px;
+    text-shadow: 3px 400px 5px blue;
+}

@@ -1,0 +1,20 @@
+
+.container{
+    background-color: aqua;
+    color: blue;
+    /*padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;*/
+    padding: 20px;
+    
+}
+.container1{
+    background-color: blue;
+    color: aqua;
+    padding: 20px;
+    margin-top: 20px;
+    border: 15px double gray;
+    border-radius: 15px;
+
+}

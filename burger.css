@@ -1,0 +1,20 @@
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+    padding: 30px;
+    align-items: center;
+    
+   
+    
+}
+.parent{
+    font-size: larger;
+}
+.div{
+    font-size: 100px;
+
+}
+.child{
+    font-size: 50px;
+}

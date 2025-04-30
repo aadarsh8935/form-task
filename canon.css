@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: double;
+    padding: 20px;
+    font-style: italic;
+    position: sticky;
+    top: 0;
+   
+    
+    
+    
+}
+.navbar ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    
+
+}
+
+.navbar ul li{
+    border-radius: 5px;
+    padding: 8px;
+    
+    
+
+}
+.hh{
+    font-family: "Tagesschrift", system-ui;
+    position: relative;
+    right: 200px;
+}

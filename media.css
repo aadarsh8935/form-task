@@ -1,6 +1,24 @@
-@media screen and (min-width: 400px) and (max-width: 500px){
+h1{
+    font-size: 60px;
+    color: red;
+}
+.btn{
+    padding: 30px;
+}
+@media screen and (max-width: 500px){
     body{
-        background-color: aqua;
+        background-color: yellow;
+    }
+    h1{
+        font-size: 30px;
+        color: blue;
+    }
+    img{
+        display: none;
+
+    }
+    .btn{
+        padding: 20px;
     }
     
 }
